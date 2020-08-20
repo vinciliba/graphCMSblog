@@ -1,0 +1,12 @@
+{
+  "name": "gatsby-source-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.24.47",
+    "gatsby-source-graphql": "^2.7.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
